@@ -3,14 +3,14 @@ This contains the curated list of books, blogs, vides links, courses etc Which w
 
 ## Books and blogs:
 
-**System Design** - highscalability
-**Designing Data Intensive Applications** - Martin Kleppmann
-**CLRS for algorithms** - Introduction to Algorithms
-**Damn Cool Algorithms** - Nick Johnson
-**12 rules for life** - Jordan Peterson
-**Man's search for meaning** - Viktor Frankl
+1) **System Design** - highscalability
+2) **Designing Data Intensive Applications** - Martin Kleppmann
+3) **CLRS for algorithms** - Introduction to Algorithms
+4) **Damn Cool Algorithms** - Nick Johnson
+5) **12 rules for life** - Jordan Peterson
+6) **Man's search for meaning** - Viktor Frankl
 
 ## Sites:
 
-**Codeforces** 
-**Codingame** 
+1) **Codeforces** 
+2) **Codingame** 
